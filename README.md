@@ -2,4 +2,4 @@
 
 Este é meu livro de receitas. Let's cook! 
 
-- Strogonoff de frango
+- Purê de batata
